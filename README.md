@@ -1,3 +1,10 @@
+# Updates
+
+[22/11/2023] Accepted to ICBiomed2023 journal  
+<img src="imgs/icbiomed2023.png" width="300">
+
+<a href="https://drive.google.com/file/d/1C6cF6OIHhKKlpEKiK8Sw943IYeUSPAJC/view">pdf paper link</a>
+
 # Improving U-Net Performance for Low-Grade Glioma MRI Image Segmentation by Modification of U-Net Concatenations
 
 <b>Ziheng Su</b>
