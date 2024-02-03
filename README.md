@@ -1,5 +1,6 @@
 # Updates
 
+[03/02/2024] Officially published <a href=https://dx.doi.org/10.1117/12.3021666>https://dx.doi.org/10.1117/12.3021666</a>  
 [22/11/2023] Accepted to ICBiomed2023 journal  
 <img src="imgs/icbiomed2023.png" width="300">
 
